@@ -5,11 +5,11 @@
 }
 body {
 	height: 100vh; /* 100 vh == 100 % strony */
+	width: 100vw;  
 	font-family: 'Ubuntu', sans-serif;
     font-size: 36px;
     overflow: hidden;
 	background-color: #333;
-        
+	
 }
-
 
