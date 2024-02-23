@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	height: 100vh; /* 100 vh == 100 % strony */
+	font-family: 'Ubuntu', sans-serif;
+    font-size: 36px;
+    overflow: hidden;
+	background-color: #333;
+        
+}
+
+
